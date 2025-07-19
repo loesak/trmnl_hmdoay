@@ -1,0 +1,7 @@
+{
+	"name": "satgus-hmdoay",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "devenv",
+	"workspaceFolder": "/workspace",
+	"remoteUser": "ubuntu"
+}
