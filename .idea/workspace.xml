@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c70328-89e7-4807-8b7d-659d9b62e568" name="Changes" comment="">
+    <list default="true" id="18c70328-89e7-4807-8b7d-659d9b62e568" name="Changes" comment="trying to install ruby and idea files">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/trmnl_hmdoay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.devcontainer/devenv.dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.devcontainer/devenv.dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -98,8 +102,17 @@
       <workItem from="1752883366674" duration="1035000" />
       <workItem from="1752979886076" duration="505000" />
       <workItem from="1752980512225" duration="66000" />
-      <workItem from="1752980615675" duration="4495000" />
+      <workItem from="1752980615675" duration="5003000" />
     </task>
+    <task id="LOCAL-00001" summary="trying to install ruby and idea files">
+      <option name="closed" value="true" />
+      <created>1753147549228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753147549228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trying to install ruby and idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to install ruby and idea files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
